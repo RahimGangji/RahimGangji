@@ -4,7 +4,7 @@
 
 <div align="center">
   
- 🌱 I’m currently working on a *Learning Management System*
+ 🌱 I’m currently working on an *Educational Platform*
 
 💬 Ask me about anything [here](https://github.com/RahimGangji/RahimGangji/issues)
 
