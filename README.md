@@ -298,31 +298,22 @@ Structured systems, separation of concerns, clean code, and scalable engineering
 <!-- ====================================================== -->
 
 
+
 <!-- ==================== ENGINEERING ACTIVITY ==================== -->
 
 <h2 align="center">Engineering Activity</h2>
 
-<p align="center">
-<sub>CONTRIBUTIONS &nbsp; / &nbsp; CODE METRICS &nbsp; / &nbsp; ACTIVITY INSIGHTS</sub>
-</p>
-
 <div align="center">
 
-<!-- CONTRIBUTION OVERVIEW -->
+<img width="36%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahimGangji&theme=nord_dark&utcOffset=5" alt="Commit Activity" />
+&nbsp;
+<img width="36%" src="https://streak-stats.demolab.com?user=RahimGangji&theme=nord&hide_border=true&border_radius=6&card_width=340&card_height=200&mode=weekly" alt="Contribution Streak" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahimGangji&theme=github_dark" alt="Contribution Insights" />
+<br/>
 
-<!-- PRODUCTIVE HOURS -->
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahimGangji&theme=github_dark&utcOffset=5" alt="Productive Hours" />
-
-<!-- REPOSITORY LANGUAGES -->
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahimGangji&theme=github_dark" alt="Repository Languages" />
-
-<!-- CONTRIBUTION ACTIVITY -->
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RahimGangji&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E2E8F0&area=true&area_color=2563EB&hide_border=false&radius=6&height=200&custom_title=Contribution%20Overview" alt="Contribution Overview" />
+<img width="36%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahimGangji&theme=nord_dark" alt="Languages by Repository" />
+&nbsp;
+<img width="36%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahimGangji&theme=nord_dark" alt="Languages by Commits" />
 
 </div>
 
