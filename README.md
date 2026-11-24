@@ -333,70 +333,77 @@ Structured systems, separation of concerns, clean code, and scalable engineering
 <!--                ENGINEERING PRINCIPLES                  -->
 <!-- ====================================================== -->
 
+
+<!-- ==================== ENGINEERING PRINCIPLES ==================== -->
+
 <h2 align="center">Engineering Principles</h2>
 
 <div align="center">
 
-<h3>Precision in code. Purpose in architecture.</h3>
+<h3>Built with intention. Engineered to last.</h3>
 
-<p>The principles behind every system I build.</p>
+<p>The engineering standards behind my work.</p>
 
 <table align="center">
 <tr>
 
-<td width="200" align="center" valign="top">
+<td width="400" valign="top">
 
-<br/>
+<img align="right" width="36" src="https://api.iconify.design/lucide/layers.svg?color=%2360A5FA" alt="Architecture" />
 
-<img width="38" src="https://api.iconify.design/lucide/layers.svg?color=%2360A5FA" alt="Architecture" />
+<sub>01 / STRUCTURE</sub>
 
-<h4>Architecture</h4>
+<h3>Clean Architecture</h3>
 
-<sub>Design with intention.</sub>
-
-<br/><br/>
-
-</td>
-
-<td width="200" align="center" valign="top">
-
-<br/>
-
-<img width="38" src="https://api.iconify.design/lucide/shield-check.svg?color=%2360A5FA" alt="Reliability" />
-
-<h4>Reliability</h4>
-
-<sub>Build with confidence.</sub>
-
-<br/><br/>
+<p>
+Modular systems with clear boundaries, reusable logic, and maintainable components.
+</p>
 
 </td>
 
-<td width="200" align="center" valign="top">
+<td width="400" valign="top">
 
-<br/>
+<img align="right" width="36" src="https://api.iconify.design/lucide/shield-check.svg?color=%2360A5FA" alt="Reliability" />
 
-<img width="38" src="https://api.iconify.design/lucide/trending-up.svg?color=%2360A5FA" alt="Scalability" />
+<sub>02 / QUALITY</sub>
 
-<h4>Scalability</h4>
+<h3>System Reliability</h3>
 
-<sub>Engineer for growth.</sub>
-
-<br/><br/>
+<p>
+Predictable behavior, robust application logic, and dependable software systems.
+</p>
 
 </td>
 
-<td width="200" align="center" valign="top">
+</tr>
 
-<br/>
+<tr>
 
-<img width="38" src="https://api.iconify.design/lucide/code-xml.svg?color=%2360A5FA" alt="Simplicity" />
+<td width="400" valign="top">
 
-<h4>Simplicity</h4>
+<img align="right" width="36" src="https://api.iconify.design/lucide/trending-up.svg?color=%2360A5FA" alt="Scalability" />
 
-<sub>Eliminate complexity.</sub>
+<sub>03 / PERFORMANCE</sub>
 
-<br/><br/>
+<h3>Scalable Design</h3>
+
+<p>
+Flexible architecture designed to evolve with growing demands and requirements.
+</p>
+
+</td>
+
+<td width="400" valign="top">
+
+<img align="right" width="36" src="https://api.iconify.design/lucide/code-xml.svg?color=%2360A5FA" alt="Simplicity" />
+
+<sub>04 / PRECISION</sub>
+
+<h3>Engineering Simplicity</h3>
+
+<p>
+Readable code and practical solutions without unnecessary technical complexity.
+</p>
 
 </td>
 
@@ -404,7 +411,7 @@ Structured systems, separation of concerns, clean code, and scalable engineering
 </table>
 
 <p>
-<sub>THINK IN SYSTEMS &nbsp; · &nbsp; BUILD WITH PURPOSE</sub>
+<sub>DESIGN WITH PURPOSE &nbsp; · &nbsp; ENGINEER WITH PRECISION</sub>
 </p>
 
 </div>
