@@ -33,39 +33,80 @@
 <!--                  ENGINEERING PROFILE                   -->
 <!-- ====================================================== -->
 
+
+<!-- ==================== ENGINEERING PROFILE ==================== -->
+
 <h2 align="center">Engineering Profile</h2>
 
 <div align="center">
 
 <table align="center">
 <tr>
-<td width="470" valign="top">
 
-<h3>Turning complexity into reliable software.</h3>
+<td width="450" valign="top">
+
+<sub>SOFTWARE ENGINEER &nbsp; / &nbsp; PAKISTAN</sub>
+
+<h2>Engineering software.<br/>Architecting solutions.</h2>
 
 <p>
-I'm a Software Engineer focused on building scalable applications, structured backend systems, and intuitive digital experiences.
+I design and build scalable software systems, combining robust backend architecture with seamless frontend experiences.
 </p>
 
 <p>
-My approach combines thoughtful software architecture, efficient data management, and clean engineering practices to deliver maintainable solutions.
+My engineering approach prioritizes clean architecture, efficient data management, and long-term maintainability.
+</p>
+
+<hr/>
+
+<h4>Core Engineering Focus</h4>
+
+<p>
+<img width="18" src="https://api.iconify.design/lucide/layers.svg?color=%2360A5FA" alt="" />
+&nbsp; <strong>Full-Stack Engineering</strong>
+</p>
+
+<p>
+<img width="18" src="https://api.iconify.design/lucide/server.svg?color=%2360A5FA" alt="" />
+&nbsp; <strong>Backend & API Architecture</strong>
+</p>
+
+<p>
+<img width="18" src="https://api.iconify.design/lucide/database.svg?color=%2360A5FA" alt="" />
+&nbsp; <strong>Database Systems & Design</strong>
 </p>
 
 </td>
-<td width="330" valign="top">
 
-<h3>Engineer.ts</h3>
+<td width="350" valign="top">
+
+<table>
+<tr>
+<td width="330">
+
+🔴 🟡 🟢 &nbsp; <sub>engineer.ts</sub>
+
+</td>
+</tr>
+<tr>
+<td>
 
 <pre>
-const engineer = {
+// Engineering identity
+
+export const engineer = {
   name: "Rahim Gangji",
   role: "Software Engineer",
   location: "Pakistan",
-  focus: "Full-Stack & Backend",
+
   stack: [
-    "React",
-    "NestJS",
-    "PostgreSQL"
+    "TypeScript", "React",
+    "NestJS", "PostgreSQL"
+  ],
+
+  principles: [
+    "Clean Architecture",
+    "Scalable Systems"
   ]
 };
 </pre>
@@ -74,9 +115,19 @@ const engineer = {
 </tr>
 </table>
 
+<p align="center">
+<sub>DESIGNED FOR SCALE. BUILT TO EVOLVE.</sub>
+</p>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
+
 
 <!-- ====================================================== -->
 <!--                    TECHNOLOGY STACK                    -->
