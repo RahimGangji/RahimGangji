@@ -1,25 +1,27 @@
 
-<!-- ==================== HEADER ==================== -->
+<!-- ====================================================== -->
+<!--                     PROFILE HEADER                     -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:0F172A,100:2563EB&height=240&section=header&text=Rahim%20Gangji&fontSize=65&fontColor=F8FAFC&fontAlignY=35&desc=SOFTWARE%20ENGINEER&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:0F172A,100:2563EB&height=240&section=header&text=Rahim%20Gangji&fontSize=65&fontColor=F8FAFC&fontAlignY=35&desc=SOFTWARE%20ENGINEER&descSize=18&descAlignY=58&animation=fadeIn" alt="Rahim Gangji" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=60A5FA&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineering;Backend+Architecture+%26+API+Engineering;Building+Scalable+Software+Systems" alt="Software Engineering" />
 
-<br/>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/rahim-gangji-23539b247/">
 <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:rahimgangji428@gmail.com">
 <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
 </a>
+&nbsp;
 <a href="https://github.com/RahimGangji">
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<br/><br/>
+</p>
 
 <sub>SOFTWARE ENGINEERING &nbsp; / &nbsp; SYSTEM DESIGN &nbsp; / &nbsp; PAKISTAN</sub>
 
@@ -27,22 +29,30 @@
 
 ---
 
-<!-- ==================== ENGINEERING PROFILE ==================== -->
+<!-- ====================================================== -->
+<!--                  ENGINEERING PROFILE                   -->
+<!-- ====================================================== -->
 
-## Engineering Profile
+<h2 align="center">Engineering Profile</h2>
 
-<table width="100%">
+<div align="center">
+
+<table align="center">
 <tr>
-<td width="58%" valign="top">
+<td width="470" valign="top">
 
 <h3>Turning complexity into reliable software.</h3>
 
+<p>
 I'm a Software Engineer focused on building scalable applications, structured backend systems, and intuitive digital experiences.
+</p>
 
+<p>
 My approach combines thoughtful software architecture, efficient data management, and clean engineering practices to deliver maintainable solutions.
+</p>
 
 </td>
-<td width="42%" valign="top">
+<td width="330" valign="top">
 
 <h3>Engineer.ts</h3>
 
@@ -52,8 +62,11 @@ const engineer = {
   role: "Software Engineer",
   location: "Pakistan",
   focus: "Full-Stack & Backend",
-  stack: "React · NestJS · PostgreSQL",
-  mindset: "Build. Refine. Scale."
+  stack: [
+    "React",
+    "NestJS",
+    "PostgreSQL"
+  ]
 };
 </pre>
 
@@ -61,148 +74,191 @@ const engineer = {
 </tr>
 </table>
 
----
-
-<!-- ==================== TECHNOLOGY STACK ==================== -->
-
-## Technology Stack
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<h4>Languages</h4>
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp&theme=dark" alt="Programming Languages" />
-
-<br/>
-
-<sub>TypeScript · JavaScript · Python · C · C++</sub>
-
-</td>
-<td width="50%" align="center">
-
-<h4>Frontend Engineering</h4>
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend Stack" />
-
-<br/>
-
-<sub>React · HTML5 · CSS3</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<h4>Backend Engineering</h4>
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=dark" alt="Backend Stack" />
-
-<br/>
-
-<sub>NestJS · Node.js · Express.js</sub>
-
-</td>
-<td align="center">
-
-<h4>Database Engineering</h4>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="Database Stack" />
-
-<br/>
-
-<sub>PostgreSQL · MongoDB</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<h4>Engineering Tools</h4>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Engineering Tools" />
-
-<br/>
-
-<sub>Git · GitHub · Visual Studio Code</sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ==================== ENGINEERING DOMAINS ==================== -->
+<!-- ====================================================== -->
+<!--                    TECHNOLOGY STACK                    -->
+<!-- ====================================================== -->
 
-## Engineering Domains
+<h2 align="center">Technology Stack</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<img align="right" width="40" src="https://skillicons.dev/icons?i=nestjs&theme=dark" />
-
-<h3>Backend & API Engineering</h3>
-
-Modular services, RESTful APIs, authentication, and maintainable application logic.
-
-<sub>ARCHITECTURE / SECURITY / PERFORMANCE</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<img align="right" width="40" src="https://skillicons.dev/icons?i=react&theme=dark" />
-
-<h3>Frontend Engineering</h3>
-
-Responsive interfaces, reusable components, state management, and application integration.
-
-<sub>INTERFACES / USABILITY / FUNCTIONALITY</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<img align="right" width="40" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-
-<h3>Database Engineering</h3>
-
-Relational databases, document-based storage, data modeling, and efficient queries.
-
-<sub>SQL / NOSQL / DATA INTEGRITY</sub>
-
-</td>
-<td valign="top">
-
-<img align="right" width="40" src="https://skillicons.dev/icons?i=ts&theme=dark" />
-
-<h3>Software Architecture</h3>
-
-Structured systems, separation of concerns, clean code, and scalable engineering patterns.
-
-<sub>MODULARITY / RELIABILITY / SCALABILITY</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-## GitHub Analytics
+<p align="center">
+<sub>LANGUAGES &nbsp; / &nbsp; FRAMEWORKS &nbsp; / &nbsp; DATABASES &nbsp; / &nbsp; TOOLS</sub>
+</p>
 
 <div align="center">
 
-<sub>ENGINEERING ACTIVITY & CONTRIBUTION INSIGHTS</sub>
+<h3>Programming Languages</h3>
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp&theme=dark" alt="Programming Languages" />
 
-<!-- ACCOUNT OVERVIEW AND LANGUAGES -->
+<p>
+<sub>TypeScript · JavaScript · Python · C · C++</sub>
+</p>
+
+<table align="center">
+<tr>
+
+<td width="400" align="center" valign="top">
+
+<h3>Frontend Engineering</h3>
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend Engineering" />
+
+<p>
+<sub>React · HTML5 · CSS3</sub>
+</p>
+
+</td>
+
+<td width="400" align="center" valign="top">
+
+<h3>Backend Engineering</h3>
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=dark" alt="Backend Engineering" />
+
+<p>
+<sub>NestJS · Node.js · Express.js</sub>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="400" align="center" valign="top">
+
+<h3>Database Systems</h3>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="Database Systems" />
+
+<p>
+<sub>PostgreSQL · MongoDB</sub>
+</p>
+
+</td>
+
+<td width="400" align="center" valign="top">
+
+<h3>Engineering Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Engineering Tools" />
+
+<p>
+<sub>Git · GitHub · Visual Studio Code</sub>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                  ENGINEERING DOMAINS                   -->
+<!-- ====================================================== -->
+
+<h2 align="center">Engineering Domains</h2>
+
+<p align="center">
+<sub>DESIGNING &nbsp; / &nbsp; ENGINEERING &nbsp; / &nbsp; SCALING</sub>
+</p>
+
+<div align="center">
+
+<table align="center">
+<tr>
+
+<td width="400" valign="top">
+
+<img align="right" width="42" src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" />
+
+<h3>Backend & API Engineering</h3>
+
+<p>
+Modular services, RESTful APIs, authentication, and maintainable application logic.
+</p>
+
+<sub>ARCHITECTURE · SECURITY · PERFORMANCE</sub>
+
+</td>
+
+<td width="400" valign="top">
+
+<img align="right" width="42" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+
+<h3>Frontend Engineering</h3>
+
+<p>
+Responsive interfaces, reusable components, state management, and application integration.
+</p>
+
+<sub>INTERFACES · USABILITY · FUNCTIONALITY</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="400" valign="top">
+
+<img align="right" width="42" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+
+<h3>Database Engineering</h3>
+
+<p>
+Relational databases, document-based storage, data modeling, and efficient queries.
+</p>
+
+<sub>SQL · NOSQL · DATA INTEGRITY</sub>
+
+</td>
+
+<td width="400" valign="top">
+
+<img align="right" width="42" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
+
+<h3>Software Architecture</h3>
+
+<p>
+Structured systems, separation of concerns, clean code, and scalable engineering patterns.
+</p>
+
+<sub>MODULARITY · RELIABILITY · SCALABILITY</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                    GITHUB ANALYTICS                    -->
+<!-- ====================================================== -->
+
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+<sub>ENGINEERING ACTIVITY &nbsp; / &nbsp; CONTRIBUTION INSIGHTS</sub>
+</p>
+
+<div align="center">
+
+<!-- ACCOUNT OVERVIEW -->
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahimGangji&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA&border_color=30363D&border_radius=10&custom_title=GitHub%20Overview" alt="GitHub Overview" />
+
+<!-- LANGUAGE DISTRIBUTION -->
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimGangji&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&border_color=30363D&border_radius=10&custom_title=Language%20Distribution" alt="Language Distribution" />
 
@@ -214,7 +270,7 @@ Structured systems, separation of concerns, clean code, and scalable engineering
 
 <br/><br/>
 
-<!-- CONTRIBUTION TIMELINE -->
+<!-- CONTRIBUTION ACTIVITY -->
 
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=RahimGangji&bg_color=0D1117&color=94A3B8&line=60A5FA&point=E2E8F0&area=true&area_color=2563EB&hide_border=false&border_color=30363D&radius=10&custom_title=Contribution%20Activity" alt="Contribution Activity" />
 
@@ -222,87 +278,179 @@ Structured systems, separation of concerns, clean code, and scalable engineering
 
 ---
 
-<!-- ==================== ENGINEERING PRINCIPLES ==================== -->
+<!-- ====================================================== -->
+<!--                ENGINEERING PRINCIPLES                  -->
+<!-- ====================================================== -->
 
-## Engineering Principles
+<h2 align="center">Engineering Principles</h2>
 
 <div align="center">
 
 <h3>Precision in code. Purpose in architecture.</h3>
 
-</div>
+<p>The principles behind every system I build.</p>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td width="25%" align="center">
 
-<h3>01</h3>
-
-<strong>Architecture</strong>
-
-<sub>Structure with purpose.</sub>
-
-</td>
-<td width="25%" align="center">
-
-<h3>02</h3>
-
-<strong>Reliability</strong>
-
-<sub>Build with confidence.</sub>
-
-</td>
-<td width="25%" align="center">
-
-<h3>03</h3>
-
-<strong>Scalability</strong>
-
-<sub>Engineer for growth.</sub>
-
-</td>
-<td width="25%" align="center">
-
-<h3>04</h3>
-
-<strong>Simplicity</strong>
-
-<sub>Minimize complexity.</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ==================== PROFESSIONAL NETWORK ==================== -->
-
-<div align="center">
-
-<h2>Let's Connect</h2>
-
-Open to professional opportunities, technical discussions, and meaningful collaborations.
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/rahim-gangji-23539b247/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" />
-</a>
-<a href="mailto:rahimgangji428@gmail.com">
-<img src="https://img.shields.io/badge/Get_in_Touch-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" />
-</a>
-<a href="https://github.com/RahimGangji?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-</a>
-
-<br/><br/>
-
-<strong>Rahim Gangji</strong>
+<td width="200" align="center" valign="top">
 
 <br/>
 
-<sub>SOFTWARE ENGINEER</sub>
+<img width="38" src="https://api.iconify.design/lucide/layers.svg?color=%2360A5FA" alt="Architecture" />
+
+<h4>Architecture</h4>
+
+<sub>Design with intention.</sub>
+
+<br/><br/>
+
+</td>
+
+<td width="200" align="center" valign="top">
+
+<br/>
+
+<img width="38" src="https://api.iconify.design/lucide/shield-check.svg?color=%2360A5FA" alt="Reliability" />
+
+<h4>Reliability</h4>
+
+<sub>Build with confidence.</sub>
+
+<br/><br/>
+
+</td>
+
+<td width="200" align="center" valign="top">
+
+<br/>
+
+<img width="38" src="https://api.iconify.design/lucide/trending-up.svg?color=%2360A5FA" alt="Scalability" />
+
+<h4>Scalability</h4>
+
+<sub>Engineer for growth.</sub>
+
+<br/><br/>
+
+</td>
+
+<td width="200" align="center" valign="top">
+
+<br/>
+
+<img width="38" src="https://api.iconify.design/lucide/code-xml.svg?color=%2360A5FA" alt="Simplicity" />
+
+<h4>Simplicity</h4>
+
+<sub>Eliminate complexity.</sub>
+
+<br/><br/>
+
+</td>
+
+</tr>
+</table>
+
+<p>
+<sub>THINK IN SYSTEMS &nbsp; · &nbsp; BUILD WITH PURPOSE</sub>
+</p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:0F172A,100:2563EB&height=110&section=footer" />
+---
+
+<!-- ====================================================== -->
+<!--                  PROFESSIONAL NETWORK                  -->
+<!-- ====================================================== -->
+
+<h2 align="center">Professional Network</h2>
+
+<div align="center">
+
+<h3>Let's build something exceptional.</h3>
+
+<p>
+Open to engineering opportunities, technical discussions,<br/>
+and professional collaborations.
+</p>
+
+<table align="center">
+<tr>
+
+<td width="265" align="center" valign="top">
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rahim-gangji-23539b247/">
+<img width="48" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+</a>
+
+<h3>LinkedIn</h3>
+
+<sub>Professional networking</sub>
+
+<p>
+<a href="https://www.linkedin.com/in/rahim-gangji-23539b247/">
+<img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+</p>
+
+</td>
+
+<td width="265" align="center" valign="top">
+
+<br/>
+
+<a href="mailto:rahimgangji428@gmail.com">
+<img width="48" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+</a>
+
+<h3>Email</h3>
+
+<sub>Direct communication</sub>
+
+<p>
+<a href="mailto:rahimgangji428@gmail.com">
+<img src="https://img.shields.io/badge/Get%20in%20Touch-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+</a>
+</p>
+
+</td>
+
+<td width="265" align="center" valign="top">
+
+<br/>
+
+<a href="https://github.com/RahimGangji">
+<img width="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+</a>
+
+<h3>GitHub</h3>
+
+<sub>Repositories & contributions</sub>
+
+<p>
+<a href="https://github.com/RahimGangji?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ====================================================== -->
+<!--                     PROFILE FOOTER                     -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:0F172A,100:2563EB&height=150&section=footer&text=Rahim%20Gangji&fontSize=26&fontColor=E2E8F0&fontAlignY=55&desc=SOFTWARE%20ENGINEER&descSize=11&descAlignY=73" alt="Rahim Gangji - Software Engineer" />
+
+</div>
