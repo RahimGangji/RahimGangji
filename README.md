@@ -36,91 +36,84 @@
 
 <!-- ==================== ENGINEERING PROFILE ==================== -->
 
+
+<!-- ==================== ENGINEERING PROFILE ==================== -->
+
 <h2 align="center">Engineering Profile</h2>
 
 <div align="center">
 
 <table align="center">
 <tr>
+<td width="420" valign="top">
 
-<td width="450" valign="top">
+<sub>SOFTWARE ENGINEER · PAKISTAN</sub>
 
-<sub>SOFTWARE ENGINEER &nbsp; / &nbsp; PAKISTAN</sub>
-
-<h2>Engineering software.<br/>Architecting solutions.</h2>
+<h2>Engineering scalable<br/>digital systems.</h2>
 
 <p>
-I design and build scalable software systems, combining robust backend architecture with seamless frontend experiences.
+Focused on building reliable software through structured architecture, robust backend systems, and modern frontend technologies.
 </p>
 
 <p>
-My engineering approach prioritizes clean architecture, efficient data management, and long-term maintainability.
+Transforming complex requirements into maintainable and scalable software solutions.
 </p>
 
 <hr/>
 
-<h4>Core Engineering Focus</h4>
+<h4>Engineering Focus</h4>
 
 <p>
 <img width="18" src="https://api.iconify.design/lucide/layers.svg?color=%2360A5FA" alt="" />
-&nbsp; <strong>Full-Stack Engineering</strong>
+&nbsp; Full-Stack Engineering
 </p>
 
 <p>
 <img width="18" src="https://api.iconify.design/lucide/server.svg?color=%2360A5FA" alt="" />
-&nbsp; <strong>Backend & API Architecture</strong>
+&nbsp; Backend & API Architecture
 </p>
 
 <p>
 <img width="18" src="https://api.iconify.design/lucide/database.svg?color=%2360A5FA" alt="" />
-&nbsp; <strong>Database Systems & Design</strong>
+&nbsp; Database Engineering
 </p>
 
 </td>
+<td width="380" valign="top">
 
-<td width="350" valign="top">
+<p>
+<img width="20" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+&nbsp; <strong>engineer.ts</strong>
+</p>
 
-<table>
-<tr>
-<td width="330">
+```typescript
+class SoftwareEngineer {
+  readonly name = "Rahim Gangji";
+  readonly location = "Pakistan";
 
-🔴 🟡 🟢 &nbsp; <sub>engineer.ts</sub>
+  stack = {
+    frontend: ["React", "TypeScript"],
+    backend: ["NestJS", "Node.js"],
+    database: ["PostgreSQL", "MongoDB"]
+  };
 
-</td>
-</tr>
-<tr>
-<td>
-
-<pre>
-// Engineering identity
-
-export const engineer = {
-  name: "Rahim Gangji",
-  role: "Software Engineer",
-  location: "Pakistan",
-
-  stack: [
-    "TypeScript", "React",
-    "NestJS", "PostgreSQL"
-  ],
-
-  principles: [
+  principles = [
     "Clean Architecture",
-    "Scalable Systems"
-  ]
-};
-</pre>
+    "System Reliability",
+    "Scalable Design"
+  ];
 
-</td>
-</tr>
-</table>
+  build(): string {
+    return "Engineered to scale.";
+  }
+}
+```
 
-<p align="center">
-<sub>DESIGNED FOR SCALE. BUILT TO EVOLVE.</sub>
+<p align="right">
+<sub>UTF-8 &nbsp; | &nbsp; TypeScript</sub>
 </p>
 
 </td>
-
 </tr>
 </table>
 
